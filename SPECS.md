@@ -1,7 +1,7 @@
 ## Product Description
 
 AgentHub is a SaaS platform where companies rent AI agents—preconfigured assistants that can browse the web, read documents, summarize content, or manage tasks. The admin user is an internal team member who manages users, agents, skills, contracts, and system activity. This HTML prototype is used to validate layout and behavior before backend integration.
-
+    
 ## Tech Stack and Constraints
 
 - HTML
